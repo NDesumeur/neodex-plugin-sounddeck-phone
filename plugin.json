@@ -1,0 +1,25 @@
+{
+  "id": "neodex.sounddeck",
+  "name": "SoundDeck",
+  "version": "1.0.0",
+  "author": "NDesumeur",
+  "description": "Fabrique des bruitages rétro pour tes jeux : 16 familles à tirer au hasard (pièce, saut, laser, explosion, tir, magie, moteur…), 6 formes d'onde et 23 réglages verrouillables (filtre résonant, écho, distorsion, trémolo…), historique, mélange de plusieurs sons et 5 jingles, 12 pads, clavier, export WAV 44/22/11 kHz en 16 ou 8 bits.",
+  "icon": "icon.png",
+  "entry": "index.js",
+  "view": "sounddeck",
+  "neobase": ">=4.0.0",
+  "type": "app",
+  "category": "Outils",
+  "mobile": true,
+  "compatibility": [
+    "android"
+  ],
+  "syncMode": "fusion",
+  "syncInfo": "Le son en cours et les 12 pads.",
+  "system": false,
+  "dependencies": {},
+  "sdk": "2.1.0",
+  "permissions": [
+    "storage"
+  ]
+}
