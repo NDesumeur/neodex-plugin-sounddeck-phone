@@ -1,0 +1,9 @@
+{
+  "pluginId": "neodex.sounddeck",
+  "repo": "NDesumeur/neodex-plugin-sounddeck-phone",
+  "version": "1.0.0",
+  "sha256": "2d9f99813322ddbb113b2bbd37a222e60e236466f8de751eb128774038494a2a",
+  "approvedAt": "2026-11-17T18:40:03.553Z",
+  "neobase": ">=4.0.0",
+  "signature": "czSaitBAET8CF6rVz72wxtiTOsBQBmDo7L3kDMBNwuBO6R/o/MLudm1CVxwlRTYEI18SxaX+68HvrpGpWQNjAg=="
+}
